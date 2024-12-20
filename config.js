@@ -3,9 +3,9 @@ global.owner = [
   ""
 ]
 global.anitav4 = "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒"
-global.ownername = "David Cyril"
+global.ownername = "JING WU"
 global.packname = "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒"
-global.author = "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋"
+global.author = "JING WU"
 global.channelname = "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋"
 global.channeljid = "120363315231436175@newsletter"
 global.autoTyping = false;                //make true to enable auto typing
@@ -31,7 +31,7 @@ global.roles = {
 };
 
 global.sudoUsers = ["2349066528353@s.whatsapp.net", "2348129988915@s.whatsapp.net"]; // Add the JIDs of sudo users
-
+global.sudousers = ["254748665297@s.whatsapp.net",
 
 
 global.public = true
